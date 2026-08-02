@@ -1,126 +1,38 @@
-<h1 align="center">Hi 👋, I'm Vishu Sharma</h1>
-<h3 align="center">Electronics & Communication Engineering Student | RTL Design | Digital Systems | Computer Architecture</h3>
+# Vishu Sharma
 
-<p align="center">
-  <a href="https://github.com/mnnitvishu">
-    <img src="https://komarev.com/ghpvc/?username=mnnitvishu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+Electronics & Communication Engineering undergraduate at Motilal Nehru National Institute of Technology (MNNIT) Allahabad.
 
----
+## About
 
-## 👨‍💻 About Me
+I am interested in RTL Design, Digital Systems, Computer Architecture, FPGA Design, and VLSI. My work primarily focuses on designing and implementing hardware systems using Verilog HDL.
 
-- 🎓 B.Tech in Electronics & Communication Engineering at **Motilal Nehru National Institute of Technology (MNNIT) Allahabad**
-- 💻 Passionate about **Digital Design, RTL Development, FPGA Design, and Computer Architecture**
-- ⚡ Interested in **RISC-V Processors, Bus Protocols, Embedded Systems, and VLSI**
-- 🌱 Currently working on multiple Verilog HDL and Digital Design projects
-- 🎯 Constantly learning and exploring modern processor architectures
+## Projects
 
----
+- 32-bit Single-Cycle RISC-V Processor (Verilog HDL)
+- AMBA AHB Bus Protocol Implementation
+- Digital Design Projects using Verilog
+- Currently working on additional RTL and Computer Architecture projects
 
-## 🔬 Areas of Interest
+## Skills
 
 - Verilog HDL
 - Digital Logic Design
 - RTL Design
-- FPGA Development
-- Computer Architecture
 - RISC-V Architecture
-- AMBA Bus Protocols
-- Embedded Systems
-- VLSI Design
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 32-bit Single Cycle RISC-V Processor
-- Designed and implemented a **32-bit Single-Cycle RISC-V Processor** in Verilog HDL.
-- Includes ALU, Register File, Instruction Memory, Data Memory, Control Unit, Immediate Generator, and Program Counter.
-- Simulated using Xilinx Vivado.
-
----
-
-### 🔹 AMBA AHB Bus Protocol
-- Designed RTL modules based on the **AMBA AHB (Advanced High-performance Bus)** protocol.
-- Studied bus transactions, arbitration, transfer types, burst operations, and protocol timing.
-- Implemented and verified protocol behavior using Verilog HDL.
-
----
-
-### 🔹 Digital Design Projects
-Implemented various digital design modules including:
-
-- ALU
-- Multiplexers
-- Adders & Subtractors
-- Register File
-- Memory Modules
-- Control Units
-- Verilog Testbenches
-
----
-
-## 🛠 Languages & Tools
-
-- Verilog HDL
-- Xilinx Vivado
+- AMBA AHB Protocol
+- FPGA Design
 - MATLAB
-- Git
-- GitHub
 - C
 - Python
+- Git & GitHub
 
----
+## Currently Learning
 
-## 📚 Currently Learning
-
-- Advanced RISC-V Architecture
-- Pipeline Processor Design
-- FPGA Implementation
-- VLSI Design
+- Pipelined RISC-V Processors
 - SystemVerilog
-- Verification Methodologies
+- FPGA Implementation
+- Advanced Computer Architecture
 
----
+## Contact
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mnnitvishu&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=mnnitvishu&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnnitvishu&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🎯 Goals for 2026
-
-- Build a Multi-Cycle RISC-V Processor
-- Design a 5-Stage Pipelined Processor
-- Learn FPGA Deployment
-- Explore SystemVerilog and Verification
-- Contribute to Open-Source Hardware Projects
-
----
-
-## 📫 Connect with Me
-
-- GitHub: **https://github.com/mnnitvishu**
-
----
-
-<p align="center">
-
-<i>"Learning by Building Digital Systems."</i>
-
-</p>
+GitHub: https://github.com/mnnitvishu
