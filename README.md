@@ -13,11 +13,10 @@ I'm an ECE undergrad passionate about RTL Design, Digital Systems, Computer Arch
 🌱 Always learning something new in FPGA implementation and advanced architecture
 ---
 🚀 Projects
-Project	Description
-32-bit Single-Cycle RISC-V Processor	A complete single-cycle RISC-V CPU implementation in Verilog HDL
-AMBA AHB Bus Protocol Implementation	Verilog implementation of the AMBA AHB on-chip bus protocol
-Digital Design Projects	A collection of digital logic design projects in Verilog
-RTL & Computer Architecture (WIP)	Ongoing exploration of new RTL and architecture designs
+32-bit Single-Cycle RISC-V Processor — A complete single-cycle RISC-V CPU implementation in Verilog HDL
+AMBA AHB Bus Protocol Implementation — Verilog implementation of the AMBA AHB on-chip bus protocol
+Digital Design Projects — A collection of digital logic design projects in Verilog
+RTL & Computer Architecture (WIP) — Ongoing exploration of new RTL and architecture designs
 ---
 🛠️ Skills
 Hardware & Digital Design
