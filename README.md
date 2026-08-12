@@ -37,7 +37,7 @@
     <td width="50%">
       <h4>🚌 AMBA AHB Bus Protocol</h4>
       <p>RTL implementation of the AMBA AHB bus protocol, exploring on-chip communication and interfacing between hardware modules.</p>
-      <a href="https://github.com/mnnitvishu/single-cycle-risc-v-processor-verilog">🔗 View Repository</a>
+      <a href="https://github.com/mnnitvishu/AMBA-AHB-Bus-Protocol">🔗 View Repository</a>
     </td>
   </tr>
   <tr>
